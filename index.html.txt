@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Fun and Affordable Rolled Ice Cream Service">
+    <meta name="keywords" content="ice cream, rolled ice cream">
+    <meta name="author" content="Middlek">
+    <title>Ksin Kreamery | Welcome</title>
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1>The <span class="highlight">Ksin Kreamery</span>'s Rolled Ice Cream</h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+        <h1>GOT KREAM?</h1>
+        <p> It starts as plain cream, of our own secret recipe, which is frozen and rolled right in front of you, but not before chopping-in your favorate fresh flavors!</p>
+      </div>
+    </section>
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Subscribe to our newsletter</h1>
+        <form>
+          <input type="email" placeholder="Enter Email...">
+          <button type="submit" class="button_1">Subscribe</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="./img/icon_who we are.png">
+          <h3>~ ~ ~</h3>
+          <p>The Ksin Kreamery is a family opperated; family owned business local to Metro Detroit. Its our professional mission is to provide the best ice cream rolling services. we promote a atmosphere of sweet frozen treats, lots of loud chopping and enjoyment for all!</p>
+        </div>
+        <div class="box">
+          <img src="./img/icon_what we do.png">
+          <h3>~ ~ ~</h3>
+          <p>Our team provides the best and most professional ice cream rolling services within all the midwest. We cater to an array of events such as Weddings, Birthdays, Graduations and maybe even your next Fundraiser.</p>
+        </div>
+        <div class="box">
+          <img src="./img/icon_how we do it.png">
+          <h3>~ ~ ~</h3>
+          <p>We have the best tasting rolled ice cream. We did our homework; we found the freshest high quallity ingredients; we perfected our secret recipe and our award-winning team of artisan cream rollers are unmatched.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <img src="./img/ksin kreamery_logo.png">
+      <p>Ksin Kreamery LLC, Copyright &copy; 2019</p>
+    </footer>
+  </body>
+</html>
